@@ -1,0 +1,28 @@
+name: Juliet
+favicon: null
+layout_spectrum: 0.6618965959642082
+typography_spectrum: 0.052951687946915627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7033374395687133
+  lightness: 0.8426026161760092
+  saturation: 0.8492363125551492
+  rhythmicContrast: 0.1764468306209892
+purpose: []
